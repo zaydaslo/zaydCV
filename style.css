@@ -1,0 +1,52 @@
+header i {
+    font-size: 3em;
+}
+
+.emoji {
+    font-size: 10em;
+}
+
+header {
+    background: lightblue;
+    border: solid blue;
+    border-width: 10px 0px 10px 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.circle {
+    height: 250px;
+    width: 250px;
+    background: blue;
+    border-radius: 50%;
+    border: 10px solid white;
+    display: inline-block;
+}
+
+h3 {
+    background-color: #ce54c7;
+    padding: 15px;
+    font-size: 1.5em;
+    border-left: 10px solid #d6d5cd;
+}
+
+header,
+h3 {
+    color: white;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+body {
+    font-family: helvetica, arial, san-serif;
+}
+
+p,
+ul {
+    list-style: none;
+    padding-left: 50px;
+    font-size: 1.3em;
+}
